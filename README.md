@@ -7,7 +7,7 @@ updated initial logic
 download dependency ----npm install
 start project ----- npm start
 
-![Screenshot (29)](https://user-images.githubusercontent.com/38523309/87945243-1b5e8e00-cabe-11ea-9778-3573f0979a89.png)
+![Screenshot (35)](https://user-images.githubusercontent.com/38523309/87945458-61b3ed00-cabe-11ea-9300-60ff51d2a249.png)
 
 ## Available Scripts
 
