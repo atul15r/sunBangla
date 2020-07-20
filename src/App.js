@@ -19,7 +19,7 @@ import {
 import { useDispatch } from "react-redux";
 import axios from "axios";
 
-axios.defaults.baseURL = "https://sun-bangla.distronix.in:4000";
+axios.defaults.baseURL = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 
 function App() {
 	//const data = useSelector(state => state.data);
